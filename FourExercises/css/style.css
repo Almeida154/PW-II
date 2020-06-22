@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#sub{
+    background-image: url(../img/bg.png); 
+}
+
+#main{
+    background-image: url(../img/lastbg.png);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+h3{
+    color: #003366;
+    font-size: 20px;
+    margin-left: 15px;
+    font-family: Harlow Solid;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#divao{
+    background-color: #F3F2F0;
+    width: 40%;
+    height: 490px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #003366;
+}
+
+.exerc{
+    font-family: Century Gothic;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -18px;
+}
+
+.but{
+    margin-top: -8px;
+    margin-left: 40px;
+    color:  #003366;
+    width: 80px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: transparent;
+    border: 2px solid #003366;
+    transition: 0.5s;
+}
+
+.but:hover{
+    transition: 0.3s;
+    background-color: #003366;
+    color: white;
+}
+
+.subDiv{
+    background-color: #91A8C1;
+    width: 580px;
+    height: 350px;
+    margin-top: 8%;
+    font-family: cursive;
+    padding-left: 20px;
+}
+
+.titulo{
+    margin-left: -20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 27px;
+    background-color: #14263A;
+}
+
+.p{
+    color: white;
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    padding-top: 4px;
+    font-family: Century Gothic;
+}
+
+.butRES{
+    margin-top: 30px;
+    color:  #003366;
+    width: 80px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: transparent;
+    border: 2px solid #003366;
+    transition: 0.5s;
+}
+
+.butRES:hover{
+    transition: 0.3s;
+    background-color: #003366;
+    color: white;
+}
+
+.n{
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 25px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 2px solid #003366;
+}
+
+.botao{
+    margin-top: 50px;
+    margin-left: 28px;
+    color:  #003366;
+    width: 80px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: transparent;
+    border: 2px solid #003366;
+    transition: 0.5s;
+}
+
+.botao:hover{
+    transition: 0.3s;
+    background-color: #003366;
+    color: white;
+}
+
+span{
+    color: red;
+}
+
+.input1{
+    margin-left: 18px;
+    width: 100px;
+    margin-top: 8px;
+    padding-left: 10px;
+    border: 2px solid #003366;
+    background-color: transparent;
+    height: 30px;
+}
+
+form{
+    margin-top: 15%;
+    margin-left: 36.8%;
+    
+    
+}
+
+
+
+
